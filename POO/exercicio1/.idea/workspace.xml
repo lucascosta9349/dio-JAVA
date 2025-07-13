@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e561c05-3680-43bf-819a-0287d1890431" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Conceitos de POO.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio_escola/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio_escola/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio_escola/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio_escola/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio_escola/POO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio_escola/src/escola/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio_escola/src/escola/Escola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicios/exercicio1/src/Cobrança/FaturaTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../POO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pilares do POO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/Processo-seletivo/Processo-seletivo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../desafios/projeto soma/projeto soma.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2tBNKMvEMImx5vPi98JFxcehfFS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.FaturaTeste.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.faturaTeste.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/lucas/Documents/estudos/dio JAVA/POO/exercicio1",
+    "settings.editor.selected.configurable": "inlay.hints"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="23" />
+      <option name="MAIN_CLASS_NAME" value="Cobrança.FaturaTeste" />
+      <module name="exercicio1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e561c05-3680-43bf-819a-0287d1890431" name="Changes" comment="" />
+      <created>1739821445468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739821445468</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/exercicio1$FaturaTeste.ic" NAME="FaturaTeste Coverage Results" MODIFIED="1739824827938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>

@@ -1,0 +1,72 @@
+Módulos do Sistema para a Farmácia de Manipulação
+
+1) Gestão de Pacientes
+Cadastro de pacientes com dados pessoais (nome, idade, contato, endereço).
+Histórico de compras e pedidos.
+Possibilidade de anexar prescrições médicas (PDF ou imagem).
+Busca rápida por nome, telefone ou CPF.
+
+2) Gestão de Médicos
+Cadastro de médicos com CRM, especialidade e contato.
+Associação de receitas aos médicos prescritores.
+Relatórios de médicos mais frequentes e prescrições mais comuns.
+
+3) Gestão de Pedidos
+Cadastro de pedidos vinculados ao paciente e ao médico.
+Escolha da fórmula e personalização das quantidades.
+Cálculo automático do custo de produção e preço de venda.
+Impressão de orçamento e nota fiscal para o cliente.
+Status do pedido (em preparação, finalizado, entregue).
+
+4) Controle de Estoque
+Cadastro de insumos (matérias-primas) com:
+Nome, tipo, fabricante, fornecedor.
+Site do fornecedor para reposição.
+Data de validade e prazo de entrega do fornecedor.
+Valor unitário e valor por grama/ml.
+
+5) Cadastro de embalagens e materiais auxiliares.
+Entrada de novos produtos no estoque.
+Redução automática do estoque ao preparar um pedido.
+Definição de estoque mínimo e alerta de reposição quando atingir o limite.
+
+6) Cadastro de Produtos para Venda
+Listagem de produtos prontos para venda (não manipulados).
+Registro de preços e disponibilidade.
+Cálculo de Custo de Produção (Baseado no custo dos insumos e quantidade utilizada em cada formulação)
+Definição de margem de lucro para precificação automática.
+Comparação entre custo real e preço de venda.
+
+7) Relatórios e Impressões
+Impressão de orçamento detalhado do pedido.
+Relatórios de consumo de insumos e necessidade de reposição.
+Histórico de pedidos e tendências de consumo.
+Relatórios financeiros com faturamento diário, semanal e mensal.
+
+Tecnologias Recomendadas
+Backend: .net 7 ou 8 (api rest) com entity framework para banco de dados.
+Frontend: React ou Angular para um painel administrativo moderno.
+Banco de Dados: PostgreSQL ou SQL Server para armazenar os registros.
+Autenticação: Login seguro com autenticação JWT.
+Armazenamento de Arquivos: AWS S3 ou Firebase para armazenar prescrições médicas.
+
+Categoria: TI e Programação
+Subcategoria: Aplicativos desktop
+Qual é o alcance do projeto?: Alteração média
+Isso é um projeto ou uma posição de trabalho?: Um projeto
+Tenho, atualmente: Eu tenho especificações
+Disponibilidade requerida: Conforme necessário
+Plataformas exigidas: Windows
+
+
+
+Sobre este projeto
+R$ 600 - 1.400
+Fazemos a transmissão ao vivo de uma aula pelo youtube usando 
+o OBS studio. 
+A lousa é grande, e usamos duas cameras fixas com foco fixo na lousa. 
+Sempre que o professor mudar de camera, a cena que está 
+sendo transmitida precisa mudar para a camera onde o professor
+está aparecendo.
+Precisamos de um aplicativo que faça a mudança automática da camera 
+sempre escolhendo a que o professor está aparecendo.
