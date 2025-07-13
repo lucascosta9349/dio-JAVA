@@ -1,0 +1,98 @@
+<!--
+   Linguagem de baixo nivel:
+   ->Linguagens que estão mais próximas de interpretação da máquina
+   diante do algoritmo desenvolvido. Ex: Assembly e C
+
+   Alto nível: São linguagens que disponibilizam uma proposta de sintaxe
+   mas próxima de interpretação humana. Ex: Java, JavaScript, Python, C++
+
+   programação estruturada:
+   -> é um paradigma da programação que visa
+   melhorar a clareza, a qualidade e o tempo
+   de desenvolvimento de um programa de computador, fazendo um extensivo
+   das construções de fluxo de controle estruturado de seleção  (if/then/else)
+   e repetição (while e for), estruturas de bloco e sub-rotinas.
+
+
+   Programação Orientada a Objetos:
+   -> POO é um paradigma de programação baseado no conceito de "objetos",
+   que podem conter dados na forma de campos, também conhecidos como atributos,
+   e códigos, na forma de procedimentos, também conhecidos como métodos.
+
+   classe: Estrutura ou representação que direciona a criação
+   dos objetos de mesmo tipo
+
+   identificador: propósito existencial aos objetos que serão criados
+
+   caracteristicas: Também conhecido como atributos, é toda informação
+   que representa o estado do objeto.
+
+   comportamentos: também conhecidos como ações ou métodos,
+   é toda parte comportamental que um objeto dispõe.
+
+   instanciar: é o ato de criar um objeto a partir da estrutura
+   definida em uma classe.
+
+   EX.:
+
+   public class Student {
+        String name;
+        int age;
+        Color color;
+        Sex sex;
+
+        void eating(Food food){
+        }
+
+        void drinking(Eat eat){
+        }
+
+        void running(){
+        }
+   }
+
+Public class School{
+    public static void main(String[] args) throws Exception{
+        Student student1 = new Student();
+        student1.name = "Jhon";
+        student1.age = 12;
+        student1.color = Color.FAIR;
+        student1.sex = Sex.MALE;
+
+        Student student2 = new Student();
+        student1.name = "Sophia";
+        student1.age = 10;
+        student1.color = Color.FAIR;
+        student1.sex = Sex.FEMALE;
+
+        Student student3 = new Student();
+        student1.name = "Lily";
+        student1.age = 11;
+        student1.color = Color.DARK;
+        student1.sex = Sex.FEMALE;
+    }
+}
+
+Convenções:
+Classes de modelo (model)-> Classes que represente, estrutura de
+domínio da aplicação. Ex.:Cliente, Pedido, nota Fiscal e etc.
+
+Classe de serviço (service)-> Classes que contém regras de negócio e validação
+de nosso sistema.
+
+Classe de repositório (repository)-> Classe que contém integração com
+banco de dados.
+
+Classes de controle (controller)-> Classes que possuem a finalidade de
+disponibilizar alguma comunicação externa à nossa aplicação,
+tipo http web ou webservices.
+
+Classes utilitárias (util)-> Classes que contém recursos comuns á
+toda nossa aplicação
+
+
+Modificador Public: qualquer coisa definida como public pode ser
+acessado por qualquer outra classe em qualquer outro pacote.
+
+
+-->

@@ -1,0 +1,14 @@
+Os 4 pilares da orientação a objetos:
+
+Encapsulamento -> Nem tudo precisa estar visível, grande parte do nosso
+algoritmo pode ser distribuído em métodos com finalidades específicas que
+complementa uma ação em nossa aplicação.
+
+Herança -> Características e comportamentos comuns podem ser elevados e compartilhados
+através de uma hierarquia de objetos.
+
+Abstração -> É a indisponibilidade para determinar a lógica de um ou vários comportamentos
+em um objeto.
+
+Polimorfismo -> São inúmeras maneiras de se realizar a mesma ação.
+
